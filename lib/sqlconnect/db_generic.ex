@@ -1,6 +1,5 @@
 defmodule SQLconnect.DBGeneric do
 
-
   @db_config [
     hostname: "localhost",
     username: "root",

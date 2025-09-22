@@ -1,7 +1,4 @@
 defmodule SQLconnect.DB do
-  @moduledoc """
-  CRUD обёртка для таблицы `users` с автоматическим созданием таблицы при первом запуске.
-  """
 
   @db_config [
     hostname: "localhost",
